@@ -2,4 +2,4 @@
 Small side projects done during my spare time
 
 # Web Development
-**[Click here](file:///C:/Users/khali/Desktop/mymemoroid%20(SEG2900)/index.html)** to view the website in which I contributed to the design and development of.
+**[Click here](https://mymemoroid.github.io/)** to view the website I designed and developed code for.
