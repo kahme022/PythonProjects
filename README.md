@@ -1,5 +1,4 @@
 # Khalid Ahmed Projects
-Small side projects I was able to complete during my spare time.
+Small python projects I was able to complete during my Intro to Computer Science I (ITI1120) course. 
 
-# Web Development
-**[Click here](https://mymemoroid.github.io/)** to view the website I designed and developed code for.
+
